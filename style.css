@@ -212,7 +212,9 @@ body {
     gap: 25px;
     margin-top: 10px;
 }
-
+.shop-now-btn {
+    color:#0056b3;
+}
 .shop-now-btn {
     border: 2px solid #FFFFFF;
     padding: 12px 28px;
